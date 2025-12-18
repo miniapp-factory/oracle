@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "The Chain Oracle";
+export const description = "A mystical cyberpunk entity living on the Base blockchain, interpreting user questions by summoning artifacts.";
 export const url = process.env.NEXT_PUBLIC_URL;
